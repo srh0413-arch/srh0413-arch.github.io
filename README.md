@@ -1,5 +1,10 @@
-# srh0413-arch.github.io 
+# srh0413-arch.github.io
+
 안녕하세요
+
+11시 53분에 수정함
+
+
 🍽️ 밀키트(Meal Kit) 홈페이지
 
 신선한 식재료와 간편한 조리법으로, 누구나 셰프처럼!
@@ -49,15 +54,19 @@ meal-kit-homepage/
 └── LICENSE
 
 ⚙️ 설치 및 실행 방법
-# 1. 저장소 클론
+
+# 1\. 저장소 클론
+
 git clone https://github.com/your-username/meal-kit-homepage.git
 
-# 2. 프론트엔드 설치 및 실행
+# 2\. 프론트엔드 설치 및 실행
+
 cd frontend
 npm install
 npm start
 
-# 3. 백엔드 설치 및 실행
+# 3\. 백엔드 설치 및 실행
+
 cd ../backend
 npm install
 npm run dev
@@ -77,14 +86,17 @@ npm run dev
 git checkout -b feature/your-feature
 
 
+
 변경 사항을 커밋합니다.
 
 git commit -m "Add your feature"
 
 
+
 브랜치에 푸시합니다.
 
 git push origin feature/your-feature
+
 
 
 Pull Request를 생성합니다.
@@ -96,6 +108,7 @@ Pull Request를 생성합니다.
 
 💡 만든이
 
-👩‍💻 [당신의 이름]
-📧 [이메일 주소]
-🔗 [포트폴리오 or LinkedIn]
+👩‍💻 \[당신의 이름]
+📧 \[이메일 주소]
+🔗 \[포트폴리오 or LinkedIn]
+
